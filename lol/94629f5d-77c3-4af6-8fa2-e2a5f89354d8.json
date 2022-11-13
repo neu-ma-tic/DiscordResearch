@@ -1,0 +1,59 @@
+{
+	"common": {
+		"symbol": [
+      "<:zz_common:926074904871333939> **<:zz_grass:931077055083315220> `(grass)`**",
+      "<:zz_common:926074904871333939> **<:zz_dirt:931077126386487326> `(dirt)`**",
+      "<:zz_common:926074904871333939> **<:zz_sand:931080408546836510> `(sand)`**"
+    ],
+    "db": [
+      "grass",
+      "dirt",
+      "sand"
+    ],
+    "chance": 5
+	},
+	"uncommon": {
+		"symbol": [
+      "<:zz_uncommon:926305068809076786> **🪨 `(stone)`**",
+      "<:zz_uncommon:926305068809076786> **<:zz_coal:931077249074094132> `(coal)`**",
+      "<:zz_uncommon:926305068809076786> **<:zz_iron:931082501764554753> `(iron)`**"
+    ],
+    "db": [
+      "stone",
+      "coal",
+      "iron"
+    ],
+    "chance": 10
+	},
+	"rare": {
+		"symbol": [
+      "<:zz_rare:926458551524810803> **<:zz_gold:931077283157004318> `(gold)`**",
+      "<:zz_rare:926458551524810803> **💎 `(diamond)`**",
+      "<:zz_rare:926458551524810803> **<:zz_emelard:931077988215320586> `(emelard)`**"
+    ],
+    "db": [
+      "gold",
+      "diamond",
+      "emelard"
+    ],
+    "chance": 15
+	},
+	"epic": {
+		"symbol": [
+      "<:zz_epic:926797498100621322> **<a:zz_dinopoop:931080380084281384> `(dinopoop)`**"
+    ],
+    "db": [
+      "dinopoop"
+    ],
+    "chance": 20
+	}, 
+  "special": {
+    "symbol": [
+      "<:zz_special:924203008101871656> **<:zz_bitcoin:931080506123091981> `(bitcoin)`**"
+    ],
+    "db": [
+      "bitcoin"
+    ],
+    "chance": 30
+  }
+}

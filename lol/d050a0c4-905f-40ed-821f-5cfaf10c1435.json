@@ -1,0 +1,96 @@
+{
+	"common": {
+		"symbol": [
+      "<:zz_common:926074904871333939> **🐛 `(bug)`**",
+      "<:zz_common:926074904871333939> **🐌 `(snail)`**",
+      "<:zz_common:926074904871333939> **🐿 `(chipmunk)`**",
+      "<:zz_common:926074904871333939> **🐀 `(mouse)`**",
+      "<:zz_common:926074904871333939> **🦋 `(butterfly)`**"
+    ],
+    "db": [
+      "bug",
+      "snail",
+      "chipmunk",
+      "mouse",
+      "butterfly"
+    ],
+    "chance": 10
+	},
+	"uncommon": {
+		"symbol": [
+      "<:zz_uncommon:926305068809076786> **🐤 `(chick)`**",
+      "<:zz_uncommon:926305068809076786> **🐓 `(chicken)`**",
+      "<:zz_uncommon:926305068809076786> **🐕 `(dog)`**",
+      "<:zz_uncommon:926305068809076786> **🐈 `(cat)`**",
+      "<:zz_uncommon:926305068809076786> **🐇 `(rabbit)`**"
+    ],
+    "db": [
+      "chick",
+      "chicken",
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "chance": 20
+	},
+	"rare": {
+		"symbol": [
+      "<:zz_rare:926458551524810803> **🐖 `(pig)`**",
+      "<:zz_rare:926458551524810803> **🐑 `(sheep)`**",
+      "<:zz_rare:926458551524810803> **🐎 `(horse)`**",
+      "<:zz_rare:926458551524810803> **🐂 `(ox)`**",
+      "<:zz_rare:926458551524810803> **🐄 `(cow)`**"
+    ],
+    "db": [
+      "pig",
+      "sheep",
+      "horse",
+      "ox",
+      "cow"
+    ],
+    "chance": 30
+	},
+	"epic": {
+		"symbol": [
+      "<:zz_epic:926797498100621322> **🦛 `(hippopotamus)`**", 
+      "<:zz_epic:926797498100621322> **🐅 `(tiger)`**", 
+      "<:zz_epic:926797498100621322> **🐆 `(leopard)`**", 
+      "<:zz_epic:926797498100621322> **🐊 `(crocodile)`**", 
+      "<:zz_epic:926797498100621322> **🐘 `(elephant)`**"
+    ],
+    "db": [
+      "hippopotamus",
+      "tiger",
+      "leopard",
+      "crocodile",
+      "elephant"
+    ],
+    "chance": 40
+	}, 
+  "mhytic": {
+		"symbol": [
+      "<:zz_mhytic:927459125330333696>  **🦩 `(flamingo)`**",
+      "<:zz_mhytic:927459125330333696>  **🐧 `(penguin)`**",
+      "<:zz_mhytic:927459125330333696>  **🕊 `(dove)`**",
+      "<:zz_mhytic:927459125330333696>  **🐐 `(goat)`**",
+      "<:zz_mhytic:927459125330333696> **🐫 `(camel)`**"
+    ],
+    "db": [
+      "flamingo",
+      "penguin",
+      "dove",
+      "goat",
+      "camel"
+    ],
+    "chance": 50
+	},
+  "special": {
+    "symbol": [
+      "<:zz_special:924203008101871656> **<a:zz_pop:924203290181369886> `(pop)`**"
+    ],
+    "db": [
+      "pop"
+    ],
+    "chance": 70
+  }
+}
