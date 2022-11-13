@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fine-bearing-309403",
+  "private_key_id": "0945188f50b36429d935e6ad4e8cd5e13b0ae53d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDE6eyyTIWQv7DR\npcGGJyYTi7qrHWr+fjsARInXRWKARDasw3uvWTD32j6tE8s7q/BQLkqqfc/f3RhH\nQQ1jfr0a1U3aF3eCqC4CLcE2bVRjVmpUux6Anysj7P90GxAQPh+StilO137ZEzsK\nZwJYHlW2jYSEKHe8yk+JYILDcWDGqj7RdllnT55c8esHGZPgQhgANJ4/M5K7ndMA\n+ahTj9hKYDW5bS1YM7g3WK4djTOaZMTs2+Fls5Bu32T3lalkGHTqNM+raAOEOyl+\nSaQU2SA8KdJ6boOZf7zoSKVkcLO1/6eU4XBlVBFCQTZUxZvdoX+5cCtHiHVMEjnL\nE2ygBTYvAgMBAAECggEAMGkSOAN4Es4Nunz1xvV49vUzPz5MP6To/HfdK39zZ/Vd\nO7wTfFiBIW4WWpazMEhlHFFFKgUkRfUlMt9bW0qdUyt9qFB8oTKXnRGCns7iIEnu\nekZGiXiYMozhgLnmiRe8y2TdYvS3ysZfjX8lpGRQzkCcg6EvTsquIygG/eWx1SU2\nXcKQggZA/Bf9CNhCHK2wMi5at3LLLNlfn2TnjYMzZmjlvBvQqktmtnlq3pMyErGk\nR2zQZLceCGMAAEev/JxVtYfYiiX6En5iWJ2lYH320UuoyQjvzpqQphxuiRGviLtt\n+bqLmNglc+BtmCh4+ueHJoNGy4CMqkIqnzMTpINvAQKBgQD/QyytM3rrGXqDMhhN\nj0AsDv60mLRybLZ2rAsEcMwOKI6ZEGbbLJK000RGsswh+pvCaKWwS8Xq8cljvEHj\nzzIEJ3119xUEGTDWU6FznFR7fcuJOcCcJgVLGOATDtogSSSf+/H3FfRjeeV9Aljx\nI5/D2WVJlF8j3nFW7WMF2NdrxwKBgQDFe5Z5iiiLkV6Z5nZL1LJmeoM+uNcLd8LP\nGaB7704SLZJfUEbxuUrRBoZF/LUcNTUya4jxhZkzmxFLqo261gn+lgMjhhRkdpmg\n2MxSDrWXiTJmadXuMfqVY+tr3BE6SFPumhI3qtVo87yO/CW4p7HgQoOt27hQfmzy\nmx6wII1SWQKBgQCoKvE8CjZovJhh5pbsQfvdCuPyxsfaupRbCm0Xt9g3W7DWVl/s\n9SiRyL2qdhDWMex738WIp+L0LeantlcSZmZlJj8ZgHZwBMiP6vjq2Ysu8GkvNsUW\nGlZSa0j0RUyfCJEAdVOrnOMsxhnSicFe3EFdHdQE7aLgVqQEyM/8Aiep8QKBgQCx\n58SHeY9NLIis3JF1fwe4imXx+1K/YgR9zfhlrhAHEEbs1sUSvnpIFDiilCYUY1qp\nMXcNHe4GL4xFPkCwMGKQl1P8jK2SU8XSwXxP8DBnc5GT8YRoMV4tdvZ/FKHwf3gd\nW29N9viKtAkKRt00nN4ByeoWlfpViY9cf6IFyU2HAQKBgQC5GqDftyORdmqZEZWM\n1tf+2KEJyxRzRiRK68TYH2MwMdA6uLF9lNhBozbHlTChVE9ay0PCICO/yIXDvZPu\nMpijAA1t+evqjWKb+18FFREQiVA7vY/LmBrZopRURv1xnSh9Ez9FdybMrADZCEZ1\n/HiQvK6vTLsqu5i+FTp2O4ymnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "discord-notification-bot@fine-bearing-309403.iam.gserviceaccount.com",
+  "client_id": "110832399767905208343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-notification-bot%40fine-bearing-309403.iam.gserviceaccount.com"
+}
